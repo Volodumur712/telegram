@@ -1,0 +1,46 @@
+Підготувати список ключові слова - відповіді.
+Для написання коду.
+
+Підготувати шаблон коду.
+
+Створити бота /newbot
+Імя бота Maryana і username MarSlu_bot
+отримати Токен бота
+username бота у код
+
+Доступ ел пошта якщо на сервер, локально не обовязково, треба саму пошту
+Реєстрація на https://chat.openai.com/
+телефон з кодом підтвердження
+Створити аккаунт на сайті chat.openai.com та згенерувати API-ключ на https://platform.openai.com/overview
+
+токен openai
+
+Встановити phyton
+python --version
+команда у ком строку - python-3.7.0.exe or pip install python==3.7
+Встановити необхідний пакет для взаємодії з ChatGPT
+- python-telegram-bot
+також можливо
+pip3 install openai
+pip3 install pytelegrambotapi
+
+
+локально чи 
+на сервер https://www.pythonanywhere.com/
+імя пошта пароль
+підтвердити пошту
+consoles
+bash
+python --version
+pip3 install openai
+pip3 install pytelegrambotapi
+files
+загрузити файл
+і запустити
+
+
+Редагування
+видалити або зупинити файл
+загрузити новий і запустити
+
+

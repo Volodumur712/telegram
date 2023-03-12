@@ -58,11 +58,3 @@ bot.polling(none_stop=True, interval=0)
  
 # client.start()  # Запускаємо кліент
 # client.run_until_disconnected()  # Ставимо його в бескінечний цикл
-
-# echo "# telegram" >> README.md
-# git init
-# git add README.md
-# git commit -m "first commit"
-# git branch -M main
-# git remote add origin https://github.com/Volodumur712/telegram.git
-# git push -u origin main
