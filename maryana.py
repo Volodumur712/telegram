@@ -1,8 +1,8 @@
 import telebot
 import openai
 
-bot = telebot.TeleBot("5832104073:AAEpP3fc5IMv4Tm4G_cyt6P4XYdu9yUWSRI")
-openai.api_key = "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"
+bot = telebot.TeleBot("5832104073:")
+openai.api_key = "sk-"
  
 # python maryana.py
 
